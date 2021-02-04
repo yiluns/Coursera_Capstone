@@ -4,7 +4,7 @@
 
 ### Project Goal:
 
-For this project, I will explore, segment, and cluster neighborhoods in Toronto based on the most common category of the venues around each neighborhood. It is an explorative project incoporated with a bunch of techniques: _web-table-scraping, data clean-up and manipulation using Pandas, making API calls to Foursquare to retrieve location data,map visualization using Folium, K-Means clustering_.
+For this project, I will explore, segment, and cluster neighborhoods in Toronto based on the most common category of the venues around each neighborhood. It is an explorative project incorporated with a bunch of techniques: _web-table-scraping, data clean-up and manipulation using Pandas, making API calls to Foursquare to retrieve location data,map visualization using Folium, K-Means clustering_.
 
 ### Data
 
